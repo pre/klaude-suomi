@@ -19,4 +19,5 @@ CLAUDE_CONFIG_DIR=~/.claude-work ./install.sh   # another profile
 ./install.sh /path/settings.json                # any other target
 ```
 
-When you add a verb to `spinner-verbs.json`, run `install.sh` again.
+When you add a verb to `spinner-verbs.json`, run `install.sh` again. The
+script checks that the file is valid JSON before it changes the target.
