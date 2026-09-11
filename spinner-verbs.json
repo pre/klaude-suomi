@@ -49,6 +49,7 @@
       "Rassaillaan",
       "Räplätään",
       "Säädetään",
+      "Säädellään",
       "Viritellään",
       "Kikkaillaan",
       "Setvitään",
@@ -79,6 +80,7 @@
       "Käännetään vielä yksi kivi",
       "Kumiankkaillaan",
       "Verrataan kumisorsaa kumiankkaan",
+      "Käännellään sorsaa",
       "Oiotaan mutkia",
       "Viilataan pilkkua",
       "Koputellaan puuta",
@@ -111,7 +113,11 @@
       "Vihellellään",
       "Huovataan",
       "Huovutetaan",
-      "Palaillaan"
+      "Palaillaan",
+      "Kuivataan",
+      "Kolvataan",
+      "Härvätään",
+      "Äestetään"
     ]
   }
 }
