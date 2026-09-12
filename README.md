@@ -42,6 +42,7 @@ existing language.
 | --- | --- |
 | [savo.txt](savo.txt) | Savonian sayings and quips from the 1929 collection. For a terminal with a little more character. |
 | [suomi.txt](suomi.txt) | Finnish verbs and playful phrases, from `Pohditaan` (pondering) to `Heitetään löylyä` (throwing water on the sauna stones). |
+| [lohja.txt](lohja.txt) | Lohja dialect from Western Uusimaa — southwestern forms with opened diphthongs and d→r. |
 
 ## Get started
 
